@@ -1,3 +1,3 @@
-module github.com/ronaldpetty/module3/v1
+module github.com/ronaldpetty/module3/
 
 go 1.14
